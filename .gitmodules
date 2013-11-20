@@ -1,0 +1,3 @@
+[submodule "d"]
+	path = d
+	url = https://github.com/pazilla/d.pazilla.github.io.git
