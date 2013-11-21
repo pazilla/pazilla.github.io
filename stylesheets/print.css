@@ -15,7 +15,7 @@ article, aside, canvas, details, embed,
 figure, figcaption, footer, header, hgroup, 
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
-	margin: 35%;
+	margin: 0;
 	padding: 0;
 	border: 0;
 	font-size: 100%;
@@ -90,7 +90,7 @@ header h2 {
 }
 
 .inner {
-  width: 680px;
+  width: 400px;
   margin: 0 auto;
 }
 
