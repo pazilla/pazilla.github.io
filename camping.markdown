@@ -114,3 +114,94 @@ level quickly, and this will be an incremental process.
 When backpacking, every extra item adds weight, so you want to be very
 careful which items you choose to bring, as extra comfort at the campsite
 means extra pain walking there and back.
+
+Mitch-specific list
+===
+This is exactly what Mitch would pack on a solo trip as a lightweight backpacker.
+Items in bold are packed at the last minute. This makes for a 19.5 pound pack for an overnight trip. Each extra night would add one pound (for extra food and fuel).
+
+Essentials
+---
+
+* Knife
+* First aid kit
+* Emergency poncho
+* __64 oz of water__
+* Flashlight
+* __Food__
+* Two Bic lighters
+* Sunscreen
+* Insect repellent
+* __Map__ and compass
+* Iodine tablets
+* Whistle
+
+Clothing to wear
+---
+* Hiking T-shirt
+* Hiking shorts
+* Underwear
+* Socks
+* Gore-Tex boots
+* Watch
+
+Clothing to pack
+---
+* Hat for keeping sun off
+* Waterproof pants
+* Thermal underwear top & bottom
+* Fleece undergloves
+* Extra underwear
+* Extra shirt
+* Two extra pairs of normal socks
+* __Fleece jacket__
+* Waterproof gloves (not necessary in summer)
+* Pair of wool socks (not necessary in summer)
+
+Overnight gear and pack
+---
+* Backpack (Osprey Atmos 50 medium, 3 lbs 1 oz)
+* __Sleeping bag__ (1 lb 14 oz)
+* Backpacking hammock (1 lb 15 oz)
+* Emergency blanket
+* Nylon cord
+* Pack cover
+
+Eating
+---
+
+* Spoon
+* Fork
+* Cup
+
+Cooking
+---
+
+* Stove and __fuel__
+* Pot
+
+Sanitation
+---
+
+* Biodegradable soap
+* Toothbrush
+* Dental floss
+* Trash bag
+* Toilet paper
+
+Variable/optional
+---
+
+* Parka (adds 1.5 lb)
+* Camera (adds 1 lb)
+* Sunglasses (adds 4 oz)
+* Notebook and pencil or pen (add 1 lb)
+* Eyedrops (add 1 oz each)
+* Towel
+* 2 more trash bags (helpful in wet weather)
+* Spade
+* Scouring pad
+
+Trip home items for the car
+---
+* Change of clothes
