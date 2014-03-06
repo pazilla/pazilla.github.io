@@ -1,5 +1,8 @@
-Camping
-===
+---
+layout: default
+title: Camping
+---
+
 So you want to go camping?
 A list of things to bring is the first useful thing that most campers want, and that is the first section covered.
 Later sections tell the story behind each category and their items.
