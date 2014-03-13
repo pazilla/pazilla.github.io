@@ -24,6 +24,13 @@ by providing free resources that you can use as you please and modify if they ar
 while sharing them back with the next generation.
 </p>
 
+<h3>Posts</h3>
+<p>
+{% for post in site.posts %}
+{{ post.date | date_to_string }} <a href="{{ post.url }}">{{ post.title }}</a><br>
+{% endfor %}
+</p>
+
 <p>
 I welcome you to Pazilla.
 </p>
