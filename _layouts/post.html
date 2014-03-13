@@ -6,8 +6,9 @@ layout: default
 
 {{ content }}
 
-Other posts
----
+<h3>Posts</h3>
+<p>
 {% for post in site.posts %}
-{{ post.date | date_to_string }} [{{ post.title }}]({{ post.url }})
+{{ post.date | date_to_string }} <a href="{{ post.url }}">{{ post.title }}</a><br>
 {% endfor %}
+</p>
