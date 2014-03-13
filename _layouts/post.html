@@ -2,6 +2,7 @@
 layout: default
 ---
 
-<a href="{{ post.url }}">{{ page.title }}</a>{{ page.date | date_to_string }}
+<a href="{{ post.url }}">{{ page.title }}</a><br>
+{{ page.date | date_to_string }}
 
 {{ content }}
