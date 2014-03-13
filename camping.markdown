@@ -14,7 +14,7 @@ Here is the strategy:
 1. Take care of basic human needs.
 2. More items add more comfort and enjoyment at the campsite but more weight.
 
-Here are the categories of things to bring, in order of urgency:
+Here are the categories of things to bring:
 * Water
 * Shelter and sleeping system
 * Clothing
@@ -25,76 +25,90 @@ Here are the categories of things to bring, in order of urgency:
 * Education and entertainment
 * Incremental comfort additions
 
-Some situations may change the priorities, so keep in mind that depending on the conditions and time,
-the order of urgency can change.
-
 Here is a detailed list of what to bring from each category, and in later sections will be the detailed story.
 
 Water
 ---
-64 ounces of water per day is the amount that I plan for me on a North Carolina trip, 
-and it also happens to be the amount that I bring with me when I know there will be water available there.
-Used cola bottles or similar bottles are a lightweight and durable way of carrying the water if you don't
-already have a container.
-You will also want to have a method of purifying water that you obtain on your trip.
-The filtration method can range from a commercial water filter made for camping or backpacking, to
+* 64 ounces of water
+* Water purification method, enough for 64 ounces per day
+
+The amounts can change depending on climate. These amounts are for deciduous forest areas. The filtration method can range from a commercial water filter made for camping or backpacking, to
 iodine tablets that are available at outdoor stores.
-Here is the summary:
-* Water
-* Water purification method
 
 Shelter and sleeping system
 ---
-For overnight, generally people think of a tent, ground cloth, sleeping bag, and sleeping pad,
-and these work beautifully.
-A ground cloth is a piece of plastic or other waterproof material to place under the tent to protect the bottom
-of the tent from wear and tear, and it also adds additional waterproofing for under the tent.
-I personally moved away from that method and I use a backpacking hammock and sleeping bag,
-as this seems to be the most lightweight option for an ultralight backpacker like me--of course,
-you need trees for this option.
-There are many other options too. 
-If you are just starting and you don't want to spend a lot of money, 
-you can use lots of heavy blankets and a large piece of plastic for waterproofing, 
-but be sure you are getting enough breathing air.
-For a standard list:
-* Tent
-* Ground cloth
-* Sleeping bag rated for appropriate temperature
-* Sleeping pad
+For overnight, generally people think of:
+* tent
+* sleeping bag
+* sleeping pad
+* ground cloth (optional)
+
+I personally moved away from that method and I use a backpacking hammock and sleeping bag--a good option for a lightweight backpacker like me. If you are just starting and you don't want to spend a lot of money, 
+you can use lots of heavy blankets and a large piece of plastic for waterproofing.
 
 Clothing
 ---
-More content is needed here.
+Clothing appropriate for the season, including rain gear. You get colder than you think when outdoors all day every day, so be sure to bring a good coat more often than you would wear one in the city. Here is a sample list:
+* Parka (perhaps optional in summer)
+* Hat for keeping sun off
+* Waterproof pants
+* Thermal underwear top & bottom
+* Fleece undergloves
+* Extra underwear
+* Extra shirt
+* Two extra pairs of normal socks
+* Fleece jacket
+* Waterproof gloves (not necessary in summer)
+* Pair of wool socks (not necessary in summer)
+
+To wear:
+---
+* Hiking T-shirt
+* Hiking shorts
+* Underwear
+* Socks
+* Gore-Tex boots
 
 Safety and protection from elements
 ---
-Without going into too much detail until later, these items are appropriate:
 * Map and compass
 * Cutting tool (pocketknife)
-* Two Bic lighters
+* Two Bic lighters (confirm they work before leaving)
+* Headlamp (or flashlight)
 * Emergency space blanket
 * Emergency poncho
 * Sunscreen
 * Hat
 * Sunglasses
+* Bug repellent
 * Three 13-gallon garbage bags
+
+The trash bags are useful for many purposes in unexpected situations, such as extra waterproofing and rainwater collection.
 
 Food
 ---
 You can plan your own menu.
 Make sure you also have the items to prepare and eat the meal, including a stove if you need it.
-Bring an extra day's worth of food.
+Bring an extra day's worth of food. I like the dehydrated meals from camping stores, as they are lightweight and easy to cook.
+* Food
+* Spoon
+* Fork
+* Cup
+* Stove and __fuel__
+* Pot
 
 Sanitation
 ---
 Bring:
+* Toilet paper
 * General-purpose soap (castile soap)
-* Cleanup kit (for dishes)
+* Cleanup kit (for dishes, such as scouring pad)
+* Spade (optional)
 
 Healthcare and personal care
 ---
 * First aid kit
-* Personal hygiene
+* Hygiene (toothbrush, floss)
 * Medical and personal items depending on your specific needs and gender
 
 Education, entertainment, and comfort
@@ -102,6 +116,10 @@ Education, entertainment, and comfort
 Field guides, photography and/or videography, musical instruments, playing cards, 
 sporting equipment, games, hobbies, binoculars, chair, fan, electronic devices,
 and anything else you may wish to bring.
+
+Trip home items for the car
+---
+* Change of clothes
 
 Incremental comfort additions
 ---
@@ -114,94 +132,7 @@ level quickly, and this will be an incremental process.
 When backpacking, every extra item adds weight, so you want to be very
 careful which items you choose to bring, as extra comfort at the campsite
 means extra pain walking there and back.
-
-Mitch-specific list
-===
-This is exactly what Mitch would pack on a solo trip as a lightweight backpacker.
-Items in bold are packed at the last minute. This makes for a 19.5 pound pack for an overnight trip. Each extra night would add one pound (for extra food and fuel).
-
-Essentials
----
-
-* Knife
-* First aid kit
-* Emergency poncho
-* __64 oz of water__
-* Flashlight
-* __Food__
-* Two Bic lighters
-* Sunscreen
-* Insect repellent
-* __Map__ and compass
-* Iodine tablets
-* Whistle
-
-Clothing to wear
----
-* Hiking T-shirt
-* Hiking shorts
-* Underwear
-* Socks
-* Gore-Tex boots
-* Watch
-
-Clothing to pack
----
-* Hat for keeping sun off
-* Waterproof pants
-* Thermal underwear top & bottom
-* Fleece undergloves
-* Extra underwear
-* Extra shirt
-* Two extra pairs of normal socks
-* __Fleece jacket__
-* Waterproof gloves (not necessary in summer)
-* Pair of wool socks (not necessary in summer)
-
-Overnight gear and pack
----
-* Backpack (Osprey Atmos 50 medium, 3 lbs 1 oz)
-* __Sleeping bag__ (1 lb 14 oz)
-* Backpacking hammock (1 lb 15 oz)
-* Emergency blanket
-* Nylon cord
-* Pack cover
-
-Eating
----
-
-* Spoon
-* Fork
-* Cup
-
-Cooking
----
-
-* Stove and __fuel__
-* Pot
-
-Sanitation
----
-
-* Biodegradable soap
-* Toothbrush
-* Dental floss
-* Trash bag
-* Toilet paper
-
-Variable/optional
----
-
-* Parka (adds 1.5 lb)
 * Camera (adds 1 lb)
-* Sunglasses (adds 4 oz)
-* Notebook and pencil or pen (add 1 lb)
-* Eyedrops (add 1 oz each)
 * Towel
-* 2 more trash bags (helpful in wet weather)
-* Spade
-* Scouring pad
 
-Trip home items for the car
----
-* Change of clothes
+
