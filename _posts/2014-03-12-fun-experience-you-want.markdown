@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: default
 title: Fun experience you want?
 root: ../../../
 ---
