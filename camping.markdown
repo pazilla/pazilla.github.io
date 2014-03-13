@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Camping
+title: Camping List
 ---
 
 So you want to go camping?
