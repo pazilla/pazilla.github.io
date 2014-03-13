@@ -19,6 +19,7 @@ I've had so many fun and memorable activities with friends in my life, such as:
 * kayaking, 
 * canoeing, and
 * whitewater rafting.
+
 All of those have one thing in common for me--ta friend took me the first
 time I did them. There are so many fun things to do in life
 with friends, but a lot of times, doing it for the first time won't happen
