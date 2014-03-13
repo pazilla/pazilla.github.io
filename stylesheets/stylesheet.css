@@ -166,6 +166,8 @@ a.button span {
 }
 .post-date {
   font-size: .7em;
+  vertical-align: top;
+  padding-bottom: 5px;
 }
 
 code, pre {
