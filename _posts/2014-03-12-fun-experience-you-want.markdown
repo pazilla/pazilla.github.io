@@ -20,7 +20,7 @@ I've had so many fun and memorable activities with friends in my life, such as:
 * canoeing, and
 * whitewater rafting.
 
-All of those have one thing in common for me--ta friend took me the first
+All of those have one thing in common for me--a friend took me the first
 time I did them. There are so many fun things to do in life
 with friends, but a lot of times, doing it for the first time won't happen
 unless there is a friend there to help show how to do it.
