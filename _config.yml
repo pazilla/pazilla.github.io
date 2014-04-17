@@ -1,6 +1,5 @@
 source: .
 markdown: kramdown
 layouts: ./d/_layouts
-includes: ./d/_includes
 posts: ./d/_posts
 
